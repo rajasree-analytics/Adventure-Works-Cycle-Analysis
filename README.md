@@ -39,7 +39,7 @@ The objective is to transform raw business data into meaningful insights through
 
 📊 Dashboards
 
-Excel Dashboard
+Excel Dashboard [https://docs.google.com/spreadsheets/d/1GGgmU_KGV1etXIpRr3F-z8fhtUusdCnT/edit?usp=sharing&ouid=108201821931776483277&rtpof=true&sd=true}
 
 * Interactive KPI cards
 * Year-wise sales analysis
@@ -51,7 +51,7 @@ Excel Dashboard
 * Sales vs. production cost by product category
 * Interactive slicers for year, month, and region
 
-Power BI Dashboard
+Power BI Dashboard [https://drive.google.com/file/d/18phl_77u7SfzgjKcX1nA7F6xT99oju03/view?usp=sharing]
 
 * Sales and profitability overview
 * Total sales, profit, quantity, and customer KPIs
@@ -62,7 +62,7 @@ Power BI Dashboard
 * Top 10 product analysis
 * Interactive filters
 
-Tableau Dashboard
+Tableau Dashboard [https://drive.google.com/file/d/1TyyzC5EfWFVXtpBxMwmaWT3l_hXF2Cdr/view?usp=sharing]
 
 * Sales performance by territory and region
 * Regional sales comparison
